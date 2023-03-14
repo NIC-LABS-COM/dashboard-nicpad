@@ -1,0 +1,37 @@
+{
+	"alerts":
+		{
+			"notifications": [
+				{
+					"title": "Nova ordem",
+					"description": "John Max encomendou um laptop",
+					"date": "1 hour ago",
+					"priority": "Alta",
+					"icon": "sap-icon://clinical-order"
+				},
+				{
+					"title": "Pedido cancelado",
+					"description": "Sara Rok cancelou seu pedido",
+					"date": "5 hour ago",
+					"priority": "Médio",
+					"icon": "sap-icon://sys-cancel-2"
+				},
+				{
+					"title": "Entrega",
+					"description": "O pedido 112 foi entregue a nancy klaus",
+					"date": "2 day ago",
+					"priority": "Baixo",
+					"icon": "sap-icon://message-success"
+				}
+			],
+			"errors": [
+				{
+					"title": "Erro de senha",
+					"subTitle": "senha inválida",
+					"description": "O usuário S700 excedeu o número de tentativas para inserir a senha",
+					"counter": 1
+				}
+			]
+		}
+
+}

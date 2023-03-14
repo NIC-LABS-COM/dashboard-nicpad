@@ -1,0 +1,58 @@
+{
+	"customers": [
+		{
+			"name": "Hybson",
+			"productId": 38761,
+			"lastPurchase": "11.5.2016",
+			"payment": "Recebido",
+			"state": "Success",
+			"amount": 234,
+			"currencyCode": "BRL"
+		},
+		{
+			"name": "Raphael",
+			"productId": 88921,
+			"lastPurchase": "29.4.2016",
+			"payment": "Atrasado",
+			"state": "Error",
+			"amount": 111,
+			"currencyCode": "BRL"
+		},
+		{
+			"name": "Philipe",
+			"productId": 38791,
+			"lastPurchase": "7.7.2016",
+			"payment": "Pendente",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "BRL"
+		},
+		{
+			"name": "Antonio",
+			"productId": 19783,
+			"lastPurchase": "14.10.2016",
+			"payment": "Recebido",
+			"state": "Success",
+			"amount": 89,
+			"currencyCode": "BRL"
+		},
+		{
+			"name": "Davi",
+			"productId": 33453,
+			"lastPurchase": "15.8.2016",
+			"payment": "Pendente",
+			"state": "Warning",
+			"amount": 32,
+			"currencyCode": "BRL"
+		},
+		{
+			"name": "Fabiano",
+			"productId": 99123,
+			"lastPurchase": "19.3.2016",
+			"payment": "Recebido",
+			"state": "Success",
+			"amount": 22,
+			"currencyCode": "BRL"
+		}
+	]
+}
